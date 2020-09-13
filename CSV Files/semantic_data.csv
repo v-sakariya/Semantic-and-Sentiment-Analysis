@@ -1,0 +1,6 @@
+Search Query,Document containing term df,Total Documents(N)/Number of documents term appeared (df),Log10(N/df)
+Canada,226.0,3500/226.0,1.1899596052028747
+University,89.0,3500/89.0,1.5946780377053629
+Dalhousie University,12.0,3500/12.0,2.464886798302651
+Halifax,63.0,3500/63.0,1.744727494896694
+Business,57.0,3500/57.0,1.7881931886777842
